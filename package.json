@@ -1,0 +1,28 @@
+{
+  "name": "graphql-sub",
+  "version": "1.0.0",
+  "description": "I'm currently (04/2021) developing a software in my University (Uberlândia's Federal University), specifically in the Welding Lab. Currently I'm using Graphql in this project to learn and get to know this tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erick-Oliveira-ET/graphql-sub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erick-Oliveira-ET/graphql-sub/issues"
+  },
+  "homepage": "https://github.com/Erick-Oliveira-ET/graphql-sub#readme",
+  "dependencies": {
+    "apollo-server": "^2.23.0",
+    "reflect-metadata": "^0.1.13",
+    "type-graphql": "^1.1.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
